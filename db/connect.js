@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
 
 
-const connectionString = "mongodb+srv://Tasks:paOlo@cluster0.remm9dj.mongodb.net/?retryWrites=true&w=majority"
+const connectionString = "mongodb+srv://bolu:Bolu8849.2024@cluster0.ltzmdke.mongodb.net/?retryWrites=true&w=majority"
 
 const connectDB = (url) => {
 mongoose
